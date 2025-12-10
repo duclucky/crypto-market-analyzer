@@ -2,7 +2,7 @@
 
 ## How to Contribute
 1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+2. Create feature branch
+3. Commit changes
+4. Push to branch
+5. Open Pull Request
