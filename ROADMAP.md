@@ -1,7 +1,6 @@
 ﻿
 ## Examples
 
-Getting Price Data:
 \\\python
 from src.analyzers.price_analyzer import PriceAnalyzer
 analyzer = PriceAnalyzer()
@@ -18,4 +17,3 @@ Write-Host "📝 COMMIT 24: Roadmap..." -ForegroundColor Green
 ## Q1 2025
 - [x] Setup
 - [x] Core modules
-- [ ] Tests
