@@ -5,10 +5,4 @@
 ### Added
 - Initial project setup
 - Price analyzer module
-- Technical indicators calculator
-- CoinGecko API integration
-- Blockchain metrics API
-- Portfolio tracker
-- Sentiment analyzer
-- Unit tests
-- Documentation
+- Technical indicators
