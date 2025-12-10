@@ -11,14 +11,12 @@ A Python-based tool for analyzing cryptocurrency market trends.
 ## Installation
 \\\ash
 git clone https://github.com/yourusername/crypto-market-analyzer.git
-cd crypto-market-analyzer
 pip install -r requirements.txt
 \\\
 
 ## Usage
 \\\python
 from analyzer import CryptoAnalyzer
-analyzer = CryptoAnalyzer()
 \\\
 
 ## License
