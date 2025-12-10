@@ -7,9 +7,4 @@ class CoinGeckoAPI:
     
     def get_market_data(self, coin_id):
         """Fetch market data for a coin."""
-        endpoint = f"{self.BASE_URL}/simple/price"
         return None
-    
-    def get_trending_coins(self):
-        """Get trending coins."""
-        pass
