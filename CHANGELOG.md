@@ -4,5 +4,5 @@
 
 ### Added
 - Initial project setup
-- Price analyzer module
+- Price analyzer
 - Technical indicators
