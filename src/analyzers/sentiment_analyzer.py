@@ -1,16 +1,8 @@
-﻿"""Sentiment analysis for crypto assets."""
+﻿"""Sentiment analysis module."""
 
 class SentimentAnalyzer:
-    """Analyze market sentiment from social media."""
-    
-    def analyze_twitter_sentiment(self, coin, tweet_count=100):
-        """Analyze Twitter sentiment for a coin."""
-        return f"Analyzing {tweet_count} tweets for {coin}"
+    """Analyze market sentiment."""
     
     def calculate_sentiment_score(self, coin):
-        """Calculate overall sentiment score (-1 to 1)."""
+        """Calculate sentiment score."""
         return 0.5
-    
-    def get_sentiment_trend(self, coin, days=7):
-        """Get sentiment trend over time."""
-        pass
