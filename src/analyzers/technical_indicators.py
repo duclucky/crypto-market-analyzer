@@ -10,7 +10,3 @@ class TechnicalIndicators:
     def calculate_macd(self, prices):
         """Calculate MACD indicator."""
         pass
-    
-    def calculate_sma(self, prices, period=20):
-        """Calculate Simple Moving Average."""
-        pass
